@@ -19,4 +19,3 @@ const VideoList = (props) => {
 };
 
 export default VideoList;
-© 2021 GitHub, Inc.
